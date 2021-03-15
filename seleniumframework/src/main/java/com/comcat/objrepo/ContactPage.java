@@ -8,5 +8,10 @@ public class ContactPage {
 	{
 		
 	}
+	public void contact13(String contact)
+	{
+		
+	}
+
 
 }
